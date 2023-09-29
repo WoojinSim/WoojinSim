@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Woojin%20Sim&fontAlign=74&fontSize=68&animation=fadeIn&fontAlignY=40&desc=GitHub&descAlignY=50&descAlign=65.4)
 
 
-# 반가워요!👋<br>심우진의 GitHub 입니다.
+<h1>반가워요!👋<br>심우진의 GitHub 입니다.</h1>h1>
 만나서 반가워요! 유능한 개발자가 되고픈 한량, 심우진입니다.<br>
 FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있습니다.<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojinSim&count_bg=%235FCCFF&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
