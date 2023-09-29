@@ -19,7 +19,7 @@ FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있
 
 ## 📄 Informations
 > #### 📞 Connect with me
-> [<img src="https://img.shields.io/badge/kakao_talk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">]([mailto:ssqwe2@gmail.com](https://open.kakao.com/o/sl4cmTJf)) <img src="https://img.shields.io/badge/woojin____sim-5865F2?style=for-the-badge&logo=discord&logoColor=white"> [<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ssqwe2@gmail.com)
+> <a href="https://open.kakao.com/o/sl4cmTJf"><img src="https://img.shields.io/badge/kakao_talk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"></a> <img src="https://img.shields.io/badge/woojin____sim-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <a href="mailto:ssqwe2@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ![](https://raw.githubusercontent.com/WoojinSim/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/WoojinSim/github-stats/master/generated/languages.svg#gh-light-mode-only)
