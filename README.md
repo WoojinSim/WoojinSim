@@ -3,7 +3,8 @@
 
 # 반가워요!👋<br>심우진의 GitHub 입니다.
 만나서 반가워요! 유능한 개발자가 되고픈 한량, 심우진입니다.<br>
-FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있습니다.
+FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있습니다.<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojinSim&count_bg=%235FCCFF&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 ## 📚 Tech Stack
 > #### ⭐ Mainly used
@@ -17,4 +18,8 @@ FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있
 <br>
 
 ## 📄 Informations
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojinSim&count_bg=%235FCCFF&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+> #### 📞 Connect with me
+> [<img src="https://img.shields.io/badge/kakao_talk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">]([mailto:ssqwe2@gmail.com](https://open.kakao.com/o/sl4cmTJf)) <img src="https://img.shields.io/badge/woojin____sim-5865F2?style=for-the-badge&logo=discord&logoColor=white"> [<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ssqwe2@gmail.com)
+
+![](https://raw.githubusercontent.com/WoojinSim/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/WoojinSim/github-stats/master/generated/languages.svg#gh-light-mode-only)
