@@ -4,7 +4,6 @@
 만나서 반가워요! 유능한 개발자가 되고픈 한량, **심우진**입니다.<br>
 FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있습니다.
 <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojinSim&count_bg=%235FCCFF&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📚 Tech Stack
 > #### ⭐ Mainly used
