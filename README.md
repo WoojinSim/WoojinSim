@@ -3,7 +3,7 @@
 # 반가워요!👋 심우진의 GitHub 입니다.</h1>
 
 만나서 반가워요! 만드는 것이 그저 즐거운 **심우진**입니다.<br>
-FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있습니다.
+FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있습니다.<br>
 저의 대하여 더 자세하게 알고싶으시다면 [여기](https://woojinsim.github.io/woojin-portfolio/)를 눌러주세요!
 <br><br>
 
