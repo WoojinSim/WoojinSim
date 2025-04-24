@@ -13,7 +13,7 @@ FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있
 
 > #### ✏️ 사용 경험
 >
-> <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ## 📄 Informations
 
@@ -21,10 +21,11 @@ FullStack을 목표로 하고있으며 현재는 FrontEnd를 주로 다루고있
 >
 > <a href="https://open.kakao.com/o/sl4cmTJf"><img src="https://img.shields.io/badge/kakao_talk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"></a> <img src="https://img.shields.io/badge/woojin____sim-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <a href="mailto:ssqwe2@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+<br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=WoojinSim&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/WoojinSim"
-  width="600"
+  width="100%"
   height="300"
 />
 </a>
